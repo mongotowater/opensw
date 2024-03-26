@@ -9,3 +9,5 @@ Original file is located at
 
 p= 'hello'
 print(p)
+
+thx = "1"
